@@ -9,31 +9,15 @@
 
 ### 🛠 Tech Stack
 
-**Data & BI**  
-![PowerBI](https://shields.io) ![Tableau](https://shields.io) ![Excel](https://shields.io)
-
-**Languages & Databases**  
-![Python](https://shields.io) ![SQL](https://shields.io) ![PostgreSQL](https://shields.io) ![Bash](https://shields.io) ![Java](https://shields.io) ![JavaScript](https://shields.io) ![PHP](https://shields.io)
-
-**Libraries**  
-![Pandas](https://shields.io) ![Scikit-Learn](https://shields.io)
-
-**DevOps & Web Engineering**  
-![Docker](https://shields.io) ![Git](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
+* **Data & BI:** Power BI, Tableau, Microsoft Excel
+* **Languages & Databases:** Python, SQL, PostgreSQL, Bash, Java, JavaScript, PHP
+* **Libraries:** Pandas, Scikit-Learn
+* **DevOps & Web Engineering:** Docker, Git, HTML5, CSS3
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 About Me
 
-<p align="center">
-  <img src="https://vercel.app" width="48%" />
-  <img src="https://vercel.app" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" width="98%" />
-</p>
-
----
-
-
+* 💻 Currently exploring advanced data pipelines and cloud infrastructure optimization.
+* 📈 Strong analytical background focusing on predictive modeling and business metric evaluation.
+* 🛠 Love building clean automation workflows and robust data transformations.
