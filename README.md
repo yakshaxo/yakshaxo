@@ -1,5 +1,4 @@
-## Hi, I'm Louay 👋
-
+## Hi, I'm Louay 
 🧠 **Junior DevOps & Business Intelligence Student**  
 ⚙️ Passionate about transforming complex data into clear, actionable insights and designing impactful analytical models.  
 🎓 Graduated with Highest Honors in Business Intelligence.  
